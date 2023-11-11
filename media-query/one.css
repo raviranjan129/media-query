@@ -1,0 +1,13 @@
+
+.header{
+   display: flex;
+   justify-content: center;
+   height: 10vh;
+   background-color: rgb(188, 183, 177);
+}
+@media (max-width:600px) {
+    
+    .header{
+        background-color: blue;
+    }
+}
